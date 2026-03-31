@@ -2,15 +2,6 @@
 
 ## Members: Léo Marcq et Vincent Dubuisson
 
-### TP group : 
-- [ ] TPA41
-- [ ] TPA42
-- [x] TPA51
-- [ ] TPA52
-- [ ] Not selected
-
-
-
 ## Project setup
 ```
 npm install
